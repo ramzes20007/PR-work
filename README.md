@@ -1,4 +1,3 @@
 # PR-work
 
-
-YES
+Testing the pair-commit system
